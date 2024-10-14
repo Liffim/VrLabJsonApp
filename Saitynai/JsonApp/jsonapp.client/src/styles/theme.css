@@ -1,0 +1,58 @@
+/* styles/theme.css */
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: #f00;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+button {
+    background-color: #f00;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input,
+textarea {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+header,
+footer {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+h1, h2 {
+    color: #f00;
+}
