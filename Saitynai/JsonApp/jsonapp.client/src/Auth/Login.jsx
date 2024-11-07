@@ -1,6 +1,6 @@
 // src/components/Auth/Login.jsx
 import React, { useState, useContext } from 'react';
-import { AuthContext } from '../context/AuthContext';
+import { AuthContext } from '../context/AuthContext'; // Adjusted the import path
 import { useNavigate, Link } from 'react-router-dom';
 
 function Login() {
@@ -27,19 +27,10 @@ function Login() {
             <h2>Login</h2>
             <form onSubmit={handleSubmit}>
                 <label>Username:</label>
-                <input
-                    value={username}
-                    onChange={(e) => setUsername(e.target.value)}
-                    required
-                />
+                <input value={username} onChange={(e) => setUsername(e.target.value)} required />
 
                 <label>Password:</label>
-                <input
-                    type="password"
-                    value={password}
-                    onChange={(e) => setPassword(e.target.value)}
-                    required
-                />
+                <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} required />
 
                 <button type="submit">Login</button>
                 <p>{message}</p>

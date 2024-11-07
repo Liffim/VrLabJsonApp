@@ -13,6 +13,7 @@ import ObjectFileForm from './ObjectFiles/ObjectFileForm';
 import ThemeList from './Themes/ThemeList';
 import ThemeDetails from './Themes/ThemeDetails';
 import ObjectFileDetails from './ObjectFiles/ObjectFileDetails'; // Ensure correct import
+import CreateTheme from './Themes/CreateTheme';
 
 function App() {
     return (
@@ -23,7 +24,7 @@ function App() {
                     <Routes>
                         <Route path="/" element={<Home />} />
                         <Route path="/objectfiles" element={<ObjectFileList />} />
-                        <Route path="/objectfiles/:id" element={<ObjectFileDetail />} />
+                        <Route path="/objectfiles/:id" element={<ObjectFileDetails />} />
                         <Route path="/upload" element={<ObjectFileForm />} />
                         <Route path="/login" element={<Login />} />
                         <Route path="/register" element={<Register />} />
@@ -32,9 +33,10 @@ function App() {
                         <Route path="/themes/:themeId" element={<ThemeDetails />} />
                         {/* Object File Routes for a Specific Theme */}
                         <Route path="/themes/:themeId/objectfile/:objectId" element={<ObjectFileDetails />} />
+                        {/* Create Theme Route */}
+                        <Route path="/create-theme" element={<CreateTheme />} />
                     </Routes>
                 </div>
-                <Footer />
             </Router>
         </AuthProvider>
     );

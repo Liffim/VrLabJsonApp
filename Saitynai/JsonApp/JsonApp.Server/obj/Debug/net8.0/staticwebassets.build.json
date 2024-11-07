@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "v2cNdEKk4vfE4Rf69A/a8OzXrcKcLQlEMvSz91PMCnA=",
+  "Hash": "vz9bVgnHF16WuU69cxomkw+N1AFKHd7iQHj1MVQO6ZY=",
   "Source": "JsonApp.Server",
   "BasePath": "_content/JsonApp.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\jsonapp.client.esproj",
+      "Identity": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\jsonapp.client.esproj",
       "Version": 2,
       "Source": "jsonapp.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

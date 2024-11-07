@@ -1,13 +1,13 @@
 // src/components/Layout/Header.jsx
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import { AuthContext } from '../context/AuthContext';
+import { AuthContext } from '../context/AuthContext'; // Adjusted the import path
 
 function Header() {
     const { user, logout } = useContext(AuthContext);
 
-    const handleLogout = async () => {
-        await logout();
+    const handleLogout = () => {
+        logout();
     };
 
     return (
@@ -17,16 +17,15 @@ function Header() {
                 <Link to="/">Home</Link>
                 {' | '}
                 <Link to="/themes">Themes</Link>
-                {' | '}
-                {user?.role === 'admin' && (
+                {user && user.role === 'administrator' && (
                     <>
                         {' | '}
                         <Link to="/create-theme">Create Theme</Link>
                     </>
                 )}
-                {' | '}
                 {user ? (
                     <>
+                        {' | '}
                         <Link to="/upload">Upload</Link>
                         {' | '}
                         <button
@@ -36,7 +35,7 @@ function Header() {
                                 border: 'none',
                                 color: 'blue',
                                 cursor: 'pointer',
-                                padding: 0
+                                padding: 0,
                             }}
                         >
                             Logout
@@ -44,6 +43,7 @@ function Header() {
                     </>
                 ) : (
                     <>
+                        {' | '}
                         <Link to="/login">Login</Link>
                         {' | '}
                         <Link to="/register">Register</Link>

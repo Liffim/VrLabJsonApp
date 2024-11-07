@@ -4,6 +4,7 @@ using JsonApp.Server.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using JsonApp.Server.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace JsonApp.Server.Controllers
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj": {}
+    "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj": {}
   },
   "projects": {
-    "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj": {
+    "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj",
+        "projectUniqueName": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj",
         "projectName": "JsonApp.Server",
-        "projectPath": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj",
+        "projectPath": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\JsonApp.Server.csproj",
         "packagesPath": "C:\\Users\\Karolis\\.nuget\\packages\\",
-        "outputPath": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\obj\\",
+        "outputPath": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

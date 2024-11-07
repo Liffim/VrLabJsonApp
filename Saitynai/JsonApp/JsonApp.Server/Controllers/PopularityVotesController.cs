@@ -4,9 +4,11 @@ using JsonApp.Server.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using JsonApp.Server.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace JsonApp.Server.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PopularityVotesController : ControllerBase

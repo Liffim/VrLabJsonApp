@@ -1,90 +1,98 @@
 // src/components/ObjectFiles/ObjectFileDetails.jsx
 import React, { useEffect, useState, useContext } from 'react';
 import { useParams } from 'react-router-dom';
-import axios from '../api/axios';
+import api from '../api/api';
 import { AuthContext } from '../context/AuthContext';
 
 function ObjectFileDetails() {
-    const { objectId } = useParams();
+    const { themeId, objectId } = useParams();
     const { user } = useContext(AuthContext);
     const [objectFile, setObjectFile] = useState(null);
     const [comments, setComments] = useState([]);
     const [newComment, setNewComment] = useState('');
     const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
 
     useEffect(() => {
-        axios.get(`/ObjectFiles/${objectId}/comments`)
-            .then(response => {
+        api
+            .get(`/themes/${themeId}/object/${objectId}`)
+            .then((response) => {
                 setObjectFile(response.data);
-                setComments(response.data.comments);
                 setLoading(false);
             })
-            .catch(error => {
-                setError(error);
+            .catch((error) => {
+                console.error('Error fetching object file details:', error);
                 setLoading(false);
             });
-    }, [objectId]);
+
+        api
+            .get(`/themes/${themeId}/object/${objectId}/comments`)
+            .then((response) => {
+                setComments(response.data);
+            })
+            .catch((error) => {
+                console.error('Error fetching comments:', error);
+            });
+    }, [themeId, objectId]);
 
     const handleVote = () => {
-        axios.post('/PopularityVotes', {
-            objectID: parseInt(objectId),
-        })
-            .then(response => {
-                setObjectFile(prevState => ({
+        api
+            .post('/PopularityVotes', {
+                objectID: parseInt(objectId),
+                userID: user.userId,
+                voteType: 'upvote', // Adjust as per your API
+            })
+            .then((response) => {
+                setObjectFile((prevState) => ({
                     ...prevState,
-                    popularityScore: prevState.popularityScore + 1
+                    popularityScore: prevState.popularityScore + 1,
                 }));
             })
-            .catch(error => {
-                console.error("Error voting on the object file", error);
+            .catch((error) => {
+                console.error('Error voting on the object file', error);
             });
     };
 
     const handleCommentSubmit = (e) => {
         e.preventDefault();
-        axios.post('/Comments', {
-            objectID: parseInt(objectId),
-            content: newComment,
-        })
-            .then(response => {
+        api
+            .post('/Comments', {
+                objectID: parseInt(objectId),
+                content: newComment,
+                userID: user.userId,
+            })
+            .then((response) => {
                 setComments([...comments, response.data]);
                 setNewComment('');
             })
-            .catch(error => {
-                console.error("There was an error posting the comment!", error);
+            .catch((error) => {
+                console.error('There was an error posting the comment!', error);
             });
     };
 
     if (loading) return <div>Loading...</div>;
-    if (error) {
-        return (
-            <div>
-                <h3>Error loading object file details:</h3>
-                <p>{error.response?.data?.message || error.message}</p>
-            </div>
-        );
-    }
+    if (!objectFile) return <div>Object file not found.</div>;
 
     return (
         <div>
-            <h2>{objectFile.Title}</h2>
-            <p>{objectFile.Description}</p>
+            <h2>{objectFile.title}</h2>
+            <p>{objectFile.description}</p>
             <div>
                 <h3>Content</h3>
-                <p>{objectFile.FileContent}</p>
+                <pre>{objectFile.fileContent}</pre>
             </div>
             <div>
-                <h3>Popularity Votes: {objectFile.PopularityScore}</h3>
+                <h3>Popularity Votes: {objectFile.popularityScore}</h3>
                 {user && <button onClick={handleVote}>Upvote</button>}
             </div>
             <div>
                 <h3>Comments</h3>
                 {comments.length > 0 ? (
-                    comments.map(comment => (
-                        <div key={comment.CommentID}>
-                            <p>{comment.Content}</p>
-                            <small>By {comment.Username} on {new Date(comment.DateCommented).toLocaleString()}</small>
+                    comments.map((comment) => (
+                        <div key={comment.commentID}>
+                            <p>{comment.content}</p>
+                            <small>
+                                By User ID {comment.userID} on {new Date(comment.dateCommented).toLocaleString()}
+                            </small>
                         </div>
                     ))
                 ) : (
@@ -92,11 +100,7 @@ function ObjectFileDetails() {
                 )}
                 {user ? (
                     <form onSubmit={handleCommentSubmit}>
-                        <textarea
-                            value={newComment}
-                            onChange={(e) => setNewComment(e.target.value)}
-                            required
-                        />
+                        <textarea value={newComment} onChange={(e) => setNewComment(e.target.value)} required />
                         <button type="submit">Add Comment</button>
                     </form>
                 ) : (

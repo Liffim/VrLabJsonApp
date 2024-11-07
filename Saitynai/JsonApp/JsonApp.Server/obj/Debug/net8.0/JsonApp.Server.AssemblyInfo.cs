@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonApp.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b90b815edff421b319f3f234b9086d85f1e770a")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonApp.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonApp.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

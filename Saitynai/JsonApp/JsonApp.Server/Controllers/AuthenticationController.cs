@@ -7,7 +7,11 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 //using BCrypt.Net;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Text;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace JsonApp.Server.Controllers
 {
@@ -16,10 +20,12 @@ namespace JsonApp.Server.Controllers
     public class AuthenticationController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
+        private readonly IConfiguration _configuration;
 
-        public AuthenticationController(ApplicationDbContext context)
+        public AuthenticationController(ApplicationDbContext context, IConfiguration configuration)
         {
             _context = context;
+            _configuration = configuration;
         }
 
         // POST: /Authentication/Register
@@ -35,7 +41,7 @@ namespace JsonApp.Server.Controllers
             {
                 return BadRequest("Username or Email already exists.");
             }
-
+            
             // Hash the password before storing
             string hashedPassword = registerRequest.Password;//BCrypt.Net.BCrypt.HashPassword(registerRequest.Password);
 
@@ -50,7 +56,7 @@ namespace JsonApp.Server.Controllers
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
-
+            var tokenString = GenerateJwtToken(user);
             // Prepare response without sensitive information
             var userResponse = new
             {
@@ -64,7 +70,6 @@ namespace JsonApp.Server.Controllers
             return Ok(new { message = "Registration successful.", user = userResponse });
         }
 
-        // POST: /Authentication/Login
         [HttpPost("Login")]
         public async Task<IActionResult> Login([FromBody] LoginRequest loginRequest)
         {
@@ -75,38 +80,12 @@ namespace JsonApp.Server.Controllers
 
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == loginRequest.Username);
 
-            //if (user == null || !BCrypt.Net.BCrypt.Verify(loginRequest.Password, user.PasswordHash))
-            //{
-            //    return Unauthorized("Invalid username or password.");
-            //}
-
-            if(user == null || user.PasswordHash != loginRequest.Password)
+            if (user == null || user.PasswordHash != loginRequest.Password)
             {
                 return Unauthorized("Invalid username or password.");
             }
-            // Create user claims
-            var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name, user.Username),
-                new Claim("UserID", user.UserID.ToString()),
-                new Claim(ClaimTypes.Role, user.Role)
-            };
 
-            var claimsIdentity = new ClaimsIdentity(
-                claims, CookieAuthenticationDefaults.AuthenticationScheme);
-
-            var authProperties = new AuthenticationProperties
-            {
-                // Configure authentication properties if needed
-                // Example:
-                // IsPersistent = true,
-                // ExpiresUtc = DateTimeOffset.UtcNow.AddDays(7)
-            };
-
-            await HttpContext.SignInAsync(
-                CookieAuthenticationDefaults.AuthenticationScheme,
-                new ClaimsPrincipal(claimsIdentity),
-                authProperties);
+            var tokenString = GenerateJwtToken(user);
 
             // Prepare response without sensitive information
             var userResponse = new
@@ -118,8 +97,9 @@ namespace JsonApp.Server.Controllers
                 dateJoined = user.DateJoined
             };
 
-            return Ok(new { message = "Login successful.", user = userResponse });
+            return Ok(new { token = tokenString, user = userResponse });
         }
+
 
         // POST: /Authentication/Logout
         [HttpPost("Logout")]
@@ -130,6 +110,31 @@ namespace JsonApp.Server.Controllers
                 CookieAuthenticationDefaults.AuthenticationScheme);
             return Ok(new { message = "Logged out successfully." });
         }
+        private string GenerateJwtToken(User user)
+        {
+            var jwtKey = _configuration["Jwt:Key"];
+            var jwtIssuer = _configuration["Jwt:Issuer"];
+
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey));
+            var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+
+            var claims = new[]
+            {
+        new Claim(ClaimTypes.Name, user.Username),
+        new Claim(ClaimTypes.NameIdentifier, user.UserID.ToString()),
+        new Claim(ClaimTypes.Role, user.Role)
+    };
+
+            var token = new JwtSecurityToken(
+                issuer: jwtIssuer,
+                audience: jwtIssuer,
+                claims: claims,
+                expires: DateTime.UtcNow.AddDays(7),
+                signingCredentials: credentials);
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+
 
         // GET: /Authentication/CurrentUser
         /*[HttpGet("CurrentUser")]

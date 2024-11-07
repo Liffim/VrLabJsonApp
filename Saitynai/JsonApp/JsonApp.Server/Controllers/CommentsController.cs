@@ -4,9 +4,11 @@ using JsonApp.Server.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using JsonApp.Server.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace JsonApp.Server.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CommentsController : ControllerBase
@@ -31,6 +33,7 @@ namespace JsonApp.Server.Controllers
         /// <summary>
         /// Creates a new comment and adds it to the database.
         /// </summary>
+        [Authorize(Roles = "member,administrator")]
         [HttpPost]
         public async Task<ActionResult<Comment>> PostComment(Comment newComment)
         {

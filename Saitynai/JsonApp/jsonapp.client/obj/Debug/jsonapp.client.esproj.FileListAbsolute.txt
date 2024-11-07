@@ -1,1 +1,2 @@
 E:\SaitynaiNew\JsonApp\jsonapp.client\obj\Debug\jsonapp.client.esproj.CoreCompileInputs.cache
+E:\SaitynaiNew\VrLabJsonApp\Saitynai\JsonApp\jsonapp.client\obj\Debug\jsonapp.client.esproj.CoreCompileInputs.cache

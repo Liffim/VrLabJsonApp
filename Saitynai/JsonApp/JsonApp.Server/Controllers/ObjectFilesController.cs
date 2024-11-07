@@ -4,11 +4,13 @@ using JsonApp.Server.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using JsonApp.Server.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace JsonApp.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ObjectFilesController : ControllerBase
     {
         private readonly ApplicationDbContext _context;

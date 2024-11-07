@@ -1,237 +1,237 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\SaitynaiNew\\JsonApp\\",
+  "WorkspaceRootPath": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\controllers\\objectfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\objectfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\controllers\\popularityvotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\popularityvotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\objectfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\objectfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\popularityvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\popularityvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\themes\\themecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\themes\\themecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\themes\\themedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\themes\\themedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\popularityvotes\\popularityvotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\popularityvotes\\popularityvotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\popularityvotes\\popularityvotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\popularityvotes\\popularityvotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\comments\\commentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\comments\\commentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\authentication\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\authentication\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\dtos\\authentication\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\authentication\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfilelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfilelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\SaitynaiNew\\JsonApp\\jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\context\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\context\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\layout\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\layout\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\layout\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\layout\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\auth\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\auth\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfileform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfileform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfiledetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfiledetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\themes\\createtheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\themes\\createtheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\themes\\themedetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\themes\\themedetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\themes\\themelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\themes\\themelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\themes\\themelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\themes\\themedetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\themes\\themedetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\jsonapp\\jsonapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\themes\\createtheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\themes\\createtheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfilelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfilelist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfileform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfileform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfiledetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfiledetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfilelistbytheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfilelistbytheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\layout\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\layout\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\layout\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\layout\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\context\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\context\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\auth\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\auth\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\styles\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\styles\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\components\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\components\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\controllers\\objectfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\objectfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\api\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\api\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\api\\api.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\controllers\\popularityvotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\popularityvotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\objectfiles\\objectfilelistbytheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\objectfiles\\objectfilelistbytheme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\components\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\components\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\popularityvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\popularityvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\objectfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\objectfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\themes\\themecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\themes\\themecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\themes\\themedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\themes\\themedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\popularityvotes\\popularityvotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\popularityvotes\\popularityvotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\popularityvotes\\popularityvotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\popularityvotes\\popularityvotecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\comments\\commentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\comments\\commentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\authentication\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\authentication\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\dtos\\authentication\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\dtos\\authentication\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\api\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D51B8E63-FF0B-4E33-BA94-992209822782}|JsonApp.Server\\JsonApp.Server.csproj|solutionrelative:jsonapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\styles\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\styles\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\public\\vite.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\jsonapp\\jsonapp.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|e:\\saitynainew\\vrlabjsonapp\\saitynai\\jsonapp\\jsonapp.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{E8E97CA4-B498-45B2-A2DC-2C1DDFA08D39}|jsonapp.client\\jsonapp.client.esproj|solutionrelative:jsonapp.client\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -242,7 +242,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,193 +250,466 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectFileList.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:58:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectFileDetails.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:58:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThemeList.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeList.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Themes\\ThemeList.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeList.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Themes\\ThemeList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T16:52:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemeDetails.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T16:53:03.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTheme.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Themes\\CreateTheme.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Themes\\CreateTheme.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Themes\\CreateTheme.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Themes\\CreateTheme.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T16:53:02.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\App.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\App.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T13:17:33.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Components\\Home.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Components\\Home.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Components\\Home.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Components\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T19:09:20.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Layout\\Footer.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Layout\\Footer.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Layout\\Footer.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Layout\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:57:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Layout\\Header.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Layout\\Header.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Layout\\Header.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Layout\\Header.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:57:30.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Auth\\Login.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Auth\\Login.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Auth\\Login.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Auth\\Login.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:57:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ViewState": "AgIAAD5pAAAAAAAAAAAEwEZpAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-10T14:17:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectFileForm.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:58:20.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Auth\\Register.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Auth\\Register.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Auth\\Register.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\Auth\\Register.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T15:58:02.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthContext.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\context\\AuthContext.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\context\\AuthContext.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\context\\AuthContext.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\context\\AuthContext.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-13T14:32:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThemesController.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\ThemesController.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\ThemesController.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\ThemesController.cs",
+              "RelativeToolTip": "JsonApp.Server\\Controllers\\ThemesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:55:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ObjectFilesController.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\ObjectFilesController.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\ObjectFilesController.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\ObjectFilesController.cs",
+              "RelativeToolTip": "JsonApp.Server\\Controllers\\ObjectFilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:56:00.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "api.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\api\\api.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\api\\api.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\api\\api.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\api\\api.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-12T13:03:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PopularityVotesController.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\PopularityVotesController.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\PopularityVotesController.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\PopularityVotesController.cs",
+              "RelativeToolTip": "JsonApp.Server\\Controllers\\PopularityVotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:58:26.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "CommentsController.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\CommentsController.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\CommentsController.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\CommentsController.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\CommentsController.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\CommentsController.cs",
               "RelativeToolTip": "JsonApp.Server\\Controllers\\CommentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T12:57:49.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ObjectFilesController.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\ObjectFilesController.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\ObjectFilesController.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\ObjectFilesController.cs",
-              "RelativeToolTip": "JsonApp.Server\\Controllers\\ObjectFilesController.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAqwKgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "JsonApp.Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:56:00.068Z"
+              "WhenOpened": "2024-10-12T12:44:51.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PopularityVotesController.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\PopularityVotesController.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\PopularityVotesController.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\PopularityVotesController.cs",
-              "RelativeToolTip": "JsonApp.Server\\Controllers\\PopularityVotesController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswDYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:58:26.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ThemesController.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\ThemesController.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\ThemesController.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\ThemesController.cs",
-              "RelativeToolTip": "JsonApp.Server\\Controllers\\ThemesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:55:39.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Data\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Data\\AplicationDbContext.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Data\\AplicationDbContext.cs",
-              "RelativeToolTip": "JsonApp.Server\\Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:28:22.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\appsettings.json",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\appsettings.json",
               "RelativeDocumentMoniker": "JsonApp.Server\\appsettings.json",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\appsettings.json",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\appsettings.json",
               "RelativeToolTip": "JsonApp.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-10T13:51:17.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\Comment.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\Comment.cs",
-              "RelativeToolTip": "JsonApp.Server\\Models\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Program.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Program.cs",
+              "RelativeToolTip": "JsonApp.Server\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:04:42.816Z"
+              "WhenOpened": "2024-10-10T13:11:33.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\LoginRequest.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "JsonApp.Server\\Models\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:05:45.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Theme.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\Theme.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\Theme.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\Theme.cs",
-              "RelativeToolTip": "JsonApp.Server\\Models\\Theme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:03:51.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "vite.config.js",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\vite.config.js",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\vite.config.js",
               "RelativeDocumentMoniker": "jsonapp.client\\vite.config.js",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\vite.config.js",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\vite.config.js",
               "RelativeToolTip": "jsonapp.client\\vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-10T13:29:54.175Z"
+              "WhenOpened": "2024-10-10T13:29:54.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ObjectFile.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\ObjectFile.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\ObjectFile.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\ObjectFile.cs",
-              "RelativeToolTip": "JsonApp.Server\\Models\\ObjectFile.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:04:21.902Z"
+              "DocumentIndex": 23,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\index.html",
+              "RelativeDocumentMoniker": "jsonapp.client\\index.html",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\index.html",
+              "RelativeToolTip": "jsonapp.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-10T14:05:58.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PopularityVote.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\PopularityVote.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\PopularityVote.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\PopularityVote.cs",
-              "RelativeToolTip": "JsonApp.Server\\Models\\PopularityVote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:05:25.518Z"
+              "DocumentIndex": 24,
+              "Title": "main.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\main.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\main.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-10T12:54:41.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\RegisterRequest.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\RegisterRequest.cs",
-              "RelativeToolTip": "JsonApp.Server\\Models\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T16:06:20.906Z"
+              "DocumentIndex": 25,
+              "Title": "ObjectFileListByTheme.jsx",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
+              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-13T09:15:26.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
+              "Title": "Home.css",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Components\\Home.css",
+              "RelativeDocumentMoniker": "jsonapp.client\\src\\Components\\Home.css",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\Components\\Home.css",
+              "RelativeToolTip": "jsonapp.client\\src\\Components\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T16:36:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\User.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\User.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\Models\\User.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Models\\User.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\User.cs",
               "RelativeToolTip": "JsonApp.Server\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T11:03:35.58Z"
+              "WhenOpened": "2024-10-12T11:03:35.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "JsonApp.Server\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAIwKsAAAALAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\Theme.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\Theme.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\Theme.cs",
+              "RelativeToolTip": "JsonApp.Server\\Models\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T12:44:51.81Z"
+              "WhenOpened": "2024-10-12T11:03:51.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
+              "Title": "PopularityVote.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\PopularityVote.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\PopularityVote.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\PopularityVote.cs",
+              "RelativeToolTip": "JsonApp.Server\\Models\\PopularityVote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:05:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\RegisterRequest.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "JsonApp.Server\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:06:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ObjectFile.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\ObjectFile.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\ObjectFile.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\ObjectFile.cs",
+              "RelativeToolTip": "JsonApp.Server\\Models\\ObjectFile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:04:21.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\LoginRequest.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "JsonApp.Server\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:05:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Models\\Comment.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Models\\Comment.cs",
+              "RelativeToolTip": "JsonApp.Server\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:04:42.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JsonApp.Server\\Data\\AplicationDbContext.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "JsonApp.Server\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:28:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Mappings\\MappingProfile.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\Mappings\\MappingProfile.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Mappings\\MappingProfile.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "JsonApp.Server\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -444,23 +717,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Program.cs",
-              "RelativeDocumentMoniker": "JsonApp.Server\\Program.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Program.cs",
-              "RelativeToolTip": "JsonApp.Server\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T13:11:33.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
               "Title": "ThemeCreateDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeCreateDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeCreateDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Themes\\ThemeCreateDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeCreateDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeCreateDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Themes\\ThemeCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -468,11 +729,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 37,
               "Title": "ThemeDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Themes\\ThemeDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Themes\\ThemeDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Themes\\ThemeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -480,11 +741,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 38,
               "Title": "PopularityVoteDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,11 +753,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 39,
               "Title": "PopularityVoteCreateDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteCreateDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteCreateDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteCreateDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteCreateDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteCreateDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\PopularityVotes\\PopularityVoteCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -504,11 +765,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 40,
               "Title": "CommentDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Comments\\CommentDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Comments\\CommentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,11 +777,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 41,
               "Title": "CommentCreateDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentCreateDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentCreateDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Comments\\CommentCreateDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentCreateDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Comments\\CommentCreateDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Comments\\CommentCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,11 +789,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Users\\UserDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Users\\UserDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Users\\UserDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Users\\UserDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Users\\UserDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Users\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -540,11 +801,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 43,
               "Title": "LoginRequestDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\LoginRequestDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\LoginRequestDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Authentication\\LoginRequestDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\LoginRequestDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\LoginRequestDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Authentication\\LoginRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -552,11 +813,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 44,
               "Title": "RegisterRequestDTO.cs",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\RegisterRequestDTO.cs",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\RegisterRequestDTO.cs",
               "RelativeDocumentMoniker": "JsonApp.Server\\DTOs\\Authentication\\RegisterRequestDTO.cs",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\RegisterRequestDTO.cs",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\DTOs\\Authentication\\RegisterRequestDTO.cs",
               "RelativeToolTip": "JsonApp.Server\\DTOs\\Authentication\\RegisterRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -564,71 +825,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ObjectFileList.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileList.jsx",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:58:10.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "App.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\App.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\App.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\App.jsx",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-10T13:17:33.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "react-dom.development.js",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
-              "RelativeDocumentMoniker": "jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
-              "RelativeToolTip": "jsonapp.client\\node_modules\\react-dom\\cjs\\react-dom.development.js",
-              "ViewState": "AgIAAD5pAAAAAAAAAAAEwFFpAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-10T14:17:37.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AuthContext.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\context\\AuthContext.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\context\\AuthContext.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\context\\AuthContext.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\context\\AuthContext.jsx",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-13T14:32:43.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Header.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Layout\\Header.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Layout\\Header.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Layout\\Header.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Layout\\Header.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:57:30.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "index.css",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\index.css",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\index.css",
               "RelativeDocumentMoniker": "jsonapp.client\\src\\index.css",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\index.css",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\index.css",
               "RelativeToolTip": "jsonapp.client\\src\\index.css",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -636,11 +837,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 46,
               "Title": "package.json",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\package.json",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\package.json",
               "RelativeDocumentMoniker": "jsonapp.client\\package.json",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\package.json",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\package.json",
               "RelativeToolTip": "jsonapp.client\\package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -648,119 +849,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ObjectFileForm.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileForm.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:58:20.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Register.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Auth\\Register.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Auth\\Register.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Auth\\Register.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Auth\\Register.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:58:02.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Login.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Auth\\Login.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Auth\\Login.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Auth\\Login.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Auth\\Login.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:57:44.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ThemeDetails.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Themes\\ThemeDetails.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T16:53:03.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Footer.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Layout\\Footer.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Layout\\Footer.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Layout\\Footer.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Layout\\Footer.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:57:36.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Home.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Components\\Home.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Components\\Home.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Components\\Home.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Components\\Home.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T19:09:20.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ObjectFileDetails.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileDetails.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T15:58:10.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CreateTheme.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Themes\\CreateTheme.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Themes\\CreateTheme.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Themes\\CreateTheme.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Themes\\CreateTheme.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T16:53:02.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ThemeList.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeList.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Themes\\ThemeList.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Themes\\ThemeList.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\Themes\\ThemeList.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T16:52:56.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "JsonApp.Server\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\JsonApp.Server\\Properties\\launchSettings.json",
               "RelativeToolTip": "JsonApp.Server\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -768,11 +861,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "axios.js",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\api\\axios.js",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\api\\axios.js",
               "RelativeDocumentMoniker": "jsonapp.client\\src\\api\\axios.js",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\api\\axios.js",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\api\\axios.js",
               "RelativeToolTip": "jsonapp.client\\src\\api\\axios.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -780,23 +873,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "main.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\main.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\main.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-10T12:54:41.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "eslint.config.js",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\eslint.config.js",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\eslint.config.js",
               "RelativeDocumentMoniker": "jsonapp.client\\eslint.config.js",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\eslint.config.js",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\eslint.config.js",
               "RelativeToolTip": "jsonapp.client\\eslint.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -804,35 +885,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "index.html",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\index.html",
-              "RelativeDocumentMoniker": "jsonapp.client\\index.html",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\index.html",
-              "RelativeToolTip": "jsonapp.client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-10T14:05:58.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ObjectFileListByTheme.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\ObjectFiles\\ObjectFileListByTheme.jsx",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-13T09:15:26.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "App.css",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\App.css",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\App.css",
               "RelativeDocumentMoniker": "jsonapp.client\\src\\App.css",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\App.css",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\App.css",
               "RelativeToolTip": "jsonapp.client\\src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -840,11 +897,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "CHANGELOG.md",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\CHANGELOG.md",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\CHANGELOG.md",
               "RelativeDocumentMoniker": "jsonapp.client\\CHANGELOG.md",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\CHANGELOG.md",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\CHANGELOG.md",
               "RelativeToolTip": "jsonapp.client\\CHANGELOG.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
@@ -852,11 +909,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "nuget.config",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\nuget.config",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\nuget.config",
               "RelativeDocumentMoniker": "jsonapp.client\\nuget.config",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\nuget.config",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\nuget.config",
               "RelativeToolTip": "jsonapp.client\\nuget.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -864,11 +921,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "package-lock.json",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\package-lock.json",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\package-lock.json",
               "RelativeDocumentMoniker": "jsonapp.client\\package-lock.json",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\package-lock.json",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\package-lock.json",
               "RelativeToolTip": "jsonapp.client\\package-lock.json",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAHIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -876,11 +933,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "launch.json",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\.vscode\\launch.json",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\.vscode\\launch.json",
               "RelativeDocumentMoniker": "jsonapp.client\\.vscode\\launch.json",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\.vscode\\launch.json",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\.vscode\\launch.json",
               "RelativeToolTip": "jsonapp.client\\.vscode\\launch.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -888,11 +945,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "theme.css",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\styles\\theme.css",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\styles\\theme.css",
               "RelativeDocumentMoniker": "jsonapp.client\\src\\styles\\theme.css",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\styles\\theme.css",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\styles\\theme.css",
               "RelativeToolTip": "jsonapp.client\\src\\styles\\theme.css",
               "ViewState": "AgIAABMAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -900,35 +957,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Home.css",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Components\\Home.css",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\Components\\Home.css",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\Components\\Home.css",
-              "RelativeToolTip": "jsonapp.client\\src\\Components\\Home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T16:36:14.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "api.jsx",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\api\\api.jsx",
-              "RelativeDocumentMoniker": "jsonapp.client\\src\\api\\api.jsx",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\api\\api.jsx",
-              "RelativeToolTip": "jsonapp.client\\src\\api\\api.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-10-12T13:03:37.308Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 56,
               "Title": "vite.svg",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\public\\vite.svg",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\public\\vite.svg",
               "RelativeDocumentMoniker": "jsonapp.client\\public\\vite.svg",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\public\\vite.svg",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\public\\vite.svg",
               "RelativeToolTip": "jsonapp.client\\public\\vite.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADUBQAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
@@ -938,9 +971,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "react.svg",
-              "DocumentMoniker": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\assets\\react.svg",
+              "DocumentMoniker": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\assets\\react.svg",
               "RelativeDocumentMoniker": "jsonapp.client\\src\\assets\\react.svg",
-              "ToolTip": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\src\\assets\\react.svg",
+              "ToolTip": "E:\\SaitynaiNew\\VrLabJsonApp\\Saitynai\\JsonApp\\jsonapp.client\\src\\assets\\react.svg",
               "RelativeToolTip": "jsonapp.client\\src\\assets\\react.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
