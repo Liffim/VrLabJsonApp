@@ -127,6 +127,46 @@ namespace JsonApp.Server.Controllers
 
             return NoContent();
         }
+        // GET: /api/themes/{themeid}/object/{id}/comments
+        /// <summary>
+        /// Retrieves all comments for a specific object file under a specific theme.
+        /// </summary>
+        [HttpGet("/api/themes/{themeid}/object/{id}/comments")]
+        public async Task<ActionResult<IEnumerable<Comment>>> GetCommentsForObjectFile(int themeid, int id)
+        {
+            var comments = await _context.Comments
+                .Where(c => c.ObjectID == id &&
+                            _context.ObjectFiles.Any(of => of.ObjectID == id && of.ThemeID == themeid))
+                .ToListAsync();
+
+            if (comments == null || comments.Count == 0)
+            {
+                return NotFound();
+            }
+
+            return comments;
+        }
+
+        // GET: /api/themes/{themeid}/object/{id}/comments/{commentid}
+        /// <summary>
+        /// Retrieves a specific comment by ID for a specific object file under a specific theme.
+        /// </summary>
+        [HttpGet("/api/themes/{themeid}/object/{id}/comments/{commentid}")]
+        public async Task<ActionResult<Comment>> GetCommentForObjectFile(int themeid, int id, int commentid)
+        {
+            var comment = await _context.Comments
+                .FirstOrDefaultAsync(c => c.CommentID == commentid &&
+                                          c.ObjectID == id &&
+                                          _context.ObjectFiles.Any(of => of.ObjectID == id && of.ThemeID == themeid));
+
+            if (comment == null)
+            {
+                return NotFound();
+            }
+
+            return comment;
+        }
+
 
         private bool ObjectFileExists(int id)
         {

@@ -1,3 +1,1 @@
 E:\SaitynaiNew\JsonApp\jsonapp.client\obj\Debug\jsonapp.client.esproj.CoreCompileInputs.cache
-C:\Users\karol\OneDrive\Stalinis kompiuteris\JsonApp\jsonapp.client\obj\Debug\jsonapp.client.esproj.CoreCompileInputs.cache
-C:\Users\karol\OneDrive\Stalinis kompiuteris\Saitynai\JsonApp\jsonapp.client\obj\Debug\jsonapp.client.esproj.CoreCompileInputs.cache

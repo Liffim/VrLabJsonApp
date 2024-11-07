@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\karol\\OneDrive\\Stalinis kompiuteris\\Saitynai\\JsonApp\\JsonApp.Server\\..\\jsonapp.client",
+"WorkingDirectory": "E:\\SaitynaiNew\\JsonApp\\JsonApp.Server\\..\\jsonapp.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

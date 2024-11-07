@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "cTr2gqdPgIYgseNBIAWN1XCS3Izb4i9oUEFDGDWzOqI=",
+  "Hash": "v2cNdEKk4vfE4Rf69A/a8OzXrcKcLQlEMvSz91PMCnA=",
   "Source": "JsonApp.Server",
   "BasePath": "_content/JsonApp.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\karol\\OneDrive\\Stalinis kompiuteris\\Saitynai\\JsonApp\\jsonapp.client\\jsonapp.client.esproj",
+      "Identity": "E:\\SaitynaiNew\\JsonApp\\jsonapp.client\\jsonapp.client.esproj",
       "Version": 2,
       "Source": "jsonapp.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
